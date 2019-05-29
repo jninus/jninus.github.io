@@ -30,7 +30,9 @@ body {
   -ms-transition: all .3s;
   -o-transition: all .3s;
 }
-
+div[class^="flex regular"]{
+  display: none ;
+}
 .section-title {
   border: 2px solid;
   font-family: "Open Sans",sans-serif;
