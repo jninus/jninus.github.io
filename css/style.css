@@ -874,15 +874,21 @@ body.show-menu #left-nav {
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
+.Ionic {
   background: #9b59b6;
-  width: 60%;
+  width: 90%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
-.illustrator {
+.android {
   background: #3498db;
-  	width: 55%;
+  	width: 75%;
+  	-moz-animation: illustrator 2s ease;
+  	-webkit-animation: illustrator 2s ease;
+}
+.jquery {
+  background: #8B0000  ;
+  	width: 75%;
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
@@ -894,11 +900,11 @@ body.show-menu #left-nav {
 }
 .Spring {
     background: #1abc9c;
-    width: 90%;
+    width: 70%;
     -moz-animation: Spring 2s ease;
     -webkit-animation: Spring 2s ease;
 }
-.Hybris {
+.Python {
     background: yellowgreen;
     width: 85%;
     -moz-animation: Hybris 2s ease;
@@ -910,9 +916,15 @@ body.show-menu #left-nav {
     -moz-animation: Java 2s ease;
     -webkit-animation: Java 2s ease;
 }
+.Java {
+  background: orangered;
+  width: 90%;
+  -moz-animation: Java 2s ease;
+  -webkit-animation: Java 2s ease;
+}
 .Kotlin {
     background: purple;
-    width: 70%;
+    width: 40%;
     -moz-animation: Kotlin 2s ease;
     -webkit-animation: Kotlin 2s ease;
 }

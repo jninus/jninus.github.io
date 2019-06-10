@@ -229,12 +229,12 @@ function parallax() {
 
     // main directions
       map = new GMaps({
-        el: '#map', lat: 33.891733, lng: -5.500648, zoom: 16, zoomControl : true,
+        el: '#map', lat: 33.547770, lng: -7.604770, zoom: 16, zoomControl : true,
         zoomControlOpt: { style : 'SMALL', position: 'TOP_LEFT' }, panControl : false, scrollwheel: false
       });
     // add address markers
-    map.addMarker({ lat: 33.891733, lng: -5.500648, title: 'Badr-Eddine SADIKI',
-      infoWindow: { content: '\'<p>SADIKI , MEKNES, MOROCCO</p>' } });
+    map.addMarker({ lat: 33.547770, lng: -7.604770, title: 'Badr-Eddine SADIKI',
+      infoWindow: { content: '\'<p>Hay Nassim , FES, MOROCCO</p>' } });
 
 /*----------------------------------------------------*/
 /*	contact form
