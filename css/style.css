@@ -156,7 +156,7 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;s
+   padding-bottom: 30px;
    text-align : center;
    z-index: 1;
    position: relative;
@@ -882,7 +882,7 @@ body.show-menu #left-nav {
 }
 .android {
   background: #3498db;
-  	width: 75%;
+  	width: 90%;
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
@@ -899,10 +899,16 @@ body.show-menu #left-nav {
   	-webkit-animation: J2EE 2s ease;
 }
 .Spring {
-    background: #1abc9c;
-    width: 70%;
+    background: #CBBEB5;
+    width: 80%;
     -moz-animation: Spring 2s ease;
     -webkit-animation: Spring 2s ease;
+}
+.Hibernate {
+  background: #1abc9c;
+  width: 75%;
+  -moz-animation: Spring 2s ease;
+  -webkit-animation: Spring 2s ease;
 }
 .Python {
     background: yellowgreen;
@@ -924,9 +930,15 @@ body.show-menu #left-nav {
 }
 .Kotlin {
     background: purple;
-    width: 40%;
+    width: 50%;
     -moz-animation: Kotlin 2s ease;
     -webkit-animation: Kotlin 2s ease;
+}
+.CodeIgniter {
+  background: purple;
+  width: 50%;
+  -moz-animation: Kotlin 2s ease;
+  -webkit-animation: Kotlin 2s ease;
 }
 .Angular {
   background: #e74c3c;
@@ -936,7 +948,7 @@ body.show-menu #left-nav {
 }
 .Bootstrap {
   background: #d35400;
-  	width: 80%;
+  	width: 85%;
   	-moz-animation: Bootstrap 2s ease;
   	-webkit-animation: Bootstrap 2s ease;
 }
